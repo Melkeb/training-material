@@ -67,3 +67,4 @@ Alternative identifiers such as:
 @M00946:180:000000000-ANFB2:1:1107:14919:14410 1:N:0:1
 @M00946:180:000000000-ANFB2:1:1107:14919:14410 2:N:0:1
 ```
+Can be split with: Match by `^.+ 1.+$` and Match by `^.+ 2.+$`
